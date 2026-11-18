@@ -1,7 +1,7 @@
 # Business Sales Performance Analytics (`FUTURE_DS_01`)
 
 **Track:** Data Science & Analytics — Task 1 (Future Interns)  
-**Author:** Casebar Mkhari | BSc Applied Mathematics & Statistics (UNISA)  
+**Author:** Casebar Mkhari | BSc Applied Mathematics & Statistics 
 **Tools Used:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Statsmodels`), Jupyter Notebook, MS Excel  
 
 ---
